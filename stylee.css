@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color:brown;
+}
+.mybutton{
+    height: 30px;
+    width: 120px;
+    font-size: bold;
+    background-color: blue;
+    border-radius:25px;
+    color: white;
+    
+}
